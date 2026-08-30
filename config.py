@@ -1,4 +1,2 @@
-# Library Policy Settings
-
-RATE_PER_DAY=10
-MAX_FEE=500
+RATE_PER_DAY = 10
+MAX_FEE = 500
